@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trybe-starwars-planets/static/css/main.c9a44ff0.chunk.css",
+    "main.js": "/trybe-starwars-planets/static/js/main.a797896b.chunk.js",
+    "main.js.map": "/trybe-starwars-planets/static/js/main.a797896b.chunk.js.map",
+    "runtime-main.js": "/trybe-starwars-planets/static/js/runtime-main.f28a19c2.js",
+    "runtime-main.js.map": "/trybe-starwars-planets/static/js/runtime-main.f28a19c2.js.map",
+    "static/js/2.ead56935.chunk.js": "/trybe-starwars-planets/static/js/2.ead56935.chunk.js",
+    "static/js/2.ead56935.chunk.js.map": "/trybe-starwars-planets/static/js/2.ead56935.chunk.js.map",
+    "index.html": "/trybe-starwars-planets/index.html",
+    "precache-manifest.13c4d36e0ee948520fc9403edf5aa836.js": "/trybe-starwars-planets/precache-manifest.13c4d36e0ee948520fc9403edf5aa836.js",
+    "service-worker.js": "/trybe-starwars-planets/service-worker.js",
+    "static/css/main.c9a44ff0.chunk.css.map": "/trybe-starwars-planets/static/css/main.c9a44ff0.chunk.css.map",
+    "static/js/2.ead56935.chunk.js.LICENSE.txt": "/trybe-starwars-planets/static/js/2.ead56935.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28a19c2.js",
+    "static/js/2.ead56935.chunk.js",
+    "static/css/main.c9a44ff0.chunk.css",
+    "static/js/main.a797896b.chunk.js"
+  ]
+}
